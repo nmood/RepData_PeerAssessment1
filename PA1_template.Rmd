@@ -249,7 +249,9 @@ ggplot(data_weekdays, aes(x=interval, y=steps)) +
         theme_bw()
 ```
 
-From the graph above, we can see there are differences in activity patterns between weekdays and weekends.  
+From the graph above, we can see there are differences in activity patterns between weekdays and weekends.    
 
-***
+
+
+
 

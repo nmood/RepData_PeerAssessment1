@@ -298,7 +298,9 @@ ggplot(data_weekdays, aes(x=interval, y=steps)) +
 
 ![](PA1_template_files/figure-html/unnamed-chunk-17-1.png) 
 
-From the graph above, we can see there are differences in activity patterns between weekdays and weekends.  
+From the graph above, we can see there are differences in activity patterns between weekdays and weekends.    
 
-***
+
+
+
 
